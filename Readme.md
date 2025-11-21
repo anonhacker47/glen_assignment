@@ -4,8 +4,8 @@ Set up a Python 3 virtualenv and install the dependencies on it:
 
 ```bash
 cd backend
-python3 -m venv venv
-source venv/bin/activate
+python -m venv env
+source env/bin/activate
 pip install -r requirements.txt
 ```
 
