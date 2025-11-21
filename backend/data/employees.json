@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Bruce", "role": "Supervisor", "availability": false },
+  { "id": 2, "name": "Clark", "role": "LCT", "availability": true },
+  { "id": 3, "name": "Peter", "role": "TCP", "availability": true },
+  { "id": 4, "name": "Tony", "role": "TCP ", "availability": true },
+  { "id": 5, "name": "Mark", "role": "TCP", "availability": true }
+]

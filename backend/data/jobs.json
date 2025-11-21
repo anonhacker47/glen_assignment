@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "night duty", "startTime": "21:00", "endTime": "04:00" },
+  { "id": 2, "name": "clean up", "startTime": "05:00", "endTime": "08:00" },
+  { "id": 3, "name": "pest control", "startTime": "09:00", "endTime": "13:00" },
+  { "id": 4, "name": "tactical meeting", "startTime": "14:00", "endTime": "16:00" },
+  { "id": 5, "name": "extermination", "startTime": "02:00", "endTime": "16:00" },
+  { "id": 6, "name": "demolition", "startTime": "15:00", "endTime": "18:00" },
+  { "id": 7, "name": "analysis", "startTime": "18:00", "endTime": "22:00" }
+]
